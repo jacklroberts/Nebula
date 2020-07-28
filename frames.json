@@ -4,19 +4,17 @@
 		"author": "Jack Roberts",
 		"url": "https://raw.githubusercontent.com/jacklroberts/Nebula/master/Wallpapers/google_gradient.jpg?token=AFAL54R25WIDYEWN6MEZC5C7EALCY",
 		"thumbnail": "https://raw.githubusercontent.com/jacklroberts/Nebula/master/Wallpapers/Thumbnails/google_gradient_thumbnail.jpg?token=AFAL54WXORAEA6IHBJYKRFK7EALIM",
-		"collections": "GRADIENT|ABSTRACT",
 		"downloadable": true,
-		"size": 345066,
 		"dimensions": "3000 x 3000 px",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
 	{
-		"name": "My other wallpaper",
+		"name": "Nebula",
 		"author": "Jack Roberts",
 		"url": "https://raw.githubusercontent.com/jacklroberts/Nebula/master/Wallpapers/nebula.jpg?token=AFAL54TBE6IWPZ4BOKM5HYK7EALGC",
 		"thumbnail": "https://raw.githubusercontent.com/jacklroberts/Nebula/master/Wallpapers/Thumbnails/nebula_thumbnail.jpg?token=AFAL54TFIIHGAHBVDOJUVN27EALHK",
-		"collections": "Material Design",
 		"downloadable": true,
+		"dimensions": "3000 x 3000 px",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	}
 ]
