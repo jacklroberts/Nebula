@@ -9,12 +9,72 @@
 		"dimensions": "3000 x 3000 px",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
+		{
+		"name": "Gray",
+		"author": "Jack Roberts",
+		"url": "https://raw.githubusercontent.com/jacklroberts/Nebula/master/Wallpapers/gray.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/jacklroberts/Nebula/master/Wallpapers/Thumbnails/gray_thumbnail.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"dimensions": "3000 x 3000 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+		{
+		"name": "Green",
+		"author": "Jack Roberts",
+		"url": "https://raw.githubusercontent.com/jacklroberts/Nebula/master/Wallpapers/green.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/jacklroberts/Nebula/master/Wallpapers/Thumbnails/green_thumbnail.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"dimensions": "3000 x 3000 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
 	{
 		"name": "Nebula",
 		"author": "Jack Roberts",
 		"url": "https://raw.githubusercontent.com/jacklroberts/Nebula/master/Wallpapers/nebula.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/jacklroberts/Nebula/master/Wallpapers/Thumbnails/nebula_thumbnail.jpg",
 		"collections": "Landscapes,Art,Material Design",
+		"downloadable": true,
+		"dimensions": "3000 x 3000 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+			{
+		"name": "Orange",
+		"author": "Jack Roberts",
+		"url": "https://raw.githubusercontent.com/jacklroberts/Nebula/master/Wallpapers/orange.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/jacklroberts/Nebula/master/Wallpapers/Thumbnails/orange_thumbnail.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"dimensions": "3000 x 3000 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+			{
+		"name": "Purple",
+		"author": "Jack Roberts",
+		"url": "https://raw.githubusercontent.com/jacklroberts/Nebula/master/Wallpapers/purple.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/jacklroberts/Nebula/master/Wallpapers/Thumbnails/purple_thumbnail.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"dimensions": "3000 x 3000 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+			{
+		"name": "Sunset",
+		"author": "Jack Roberts",
+		"url": "https://raw.githubusercontent.com/jacklroberts/Nebula/master/Wallpapers/sunset.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/jacklroberts/Nebula/master/Wallpapers/Thumbnails/sunset_thumbnail.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"dimensions": "3000 x 3000 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+			{
+		"name": "Yellow",
+		"author": "Jack Roberts",
+		"url": "https://raw.githubusercontent.com/jacklroberts/Nebula/master/Wallpapers/yellow.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/jacklroberts/Nebula/master/Wallpapers/Thumbnails/yellow_thumbnail.jpg",
+		"collections": "GRADIENT|ABSTRACT",
 		"downloadable": true,
 		"dimensions": "3000 x 3000 px",
 		"copyright": "CreativeCommons Attribution-ShareALike"
